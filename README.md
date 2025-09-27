@@ -1,4 +1,6 @@
 # Qt-QML Sample App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJanAhlert%2Fqt-qml-sample-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJanAhlert%2Fqt-qml-sample-app?ref=badge_shield)
+
 
 Simple Qt Application project with front-end developed using QML. The aim of this app is to be used as example or template project to develop other Qt apps.
 
@@ -52,3 +54,6 @@ In this case, we are going to use the `windeployqt` tool, following the steps fr
 So far, you have already a deployable folder containing the App executable along with all the Qt libraries dependencies, so you can share directly this folder to the rest of the App users. 
 
 If you are interested in creating a installer, continue reading: [Qt Installer Framework](https://www.walletfox.com/course/qtinstallerframeworkexample.php)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJanAhlert%2Fqt-qml-sample-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJanAhlert%2Fqt-qml-sample-app?ref=badge_large)
